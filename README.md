@@ -1,7 +1,7 @@
 ### Hi there, I'm Ganesh Singh Bisht -  G S Best [Hilarioustech][website] 👋
 
 [![Website](https://img.shields.io/website?label=hilarioustech.com&style=for-the-badge&url=https%3A%2F%2Fhilarioustech.com)](https://hilarioustech.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FbestGanesh1&screen_name=bestGanesh1)
 
 ## I'm a Student, brother, son, and friend!
 
