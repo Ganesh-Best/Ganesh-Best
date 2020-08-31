@@ -99,7 +99,7 @@
 
 [website]: https://hilarioustech.com
 [instagram]: https://instagram.com/Best_ganesh
-[linkedin]: https://linkedin.com/in/ganesh-singh-bisht
+[linkedin]: https://linkedin.com/in/BestGanesh
 
 <!--[twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
