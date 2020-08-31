@@ -100,10 +100,11 @@
 [website]: https://hilarioustech.com
 [instagram]: https://instagram.com/Best_ganesh
 [linkedin]: https://linkedin.com/in/BestGanesh
-[youtube]: https://youtube.com
+[youtube]: https://youtube.com/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 <!--[twitter]: https://twitter.com/codeSTACKr
 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
