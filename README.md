@@ -88,7 +88,7 @@
 5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
-<!--</details> -->
+<!--</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -96,7 +96,7 @@
   <img align="left" alt="Ganesh-Best Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Best&show_icons=true&hide_border=true" />
 
 </details>
-
+-->
 [website]: https://hilarioustech.com
 [instagram]: https://instagram.com/Best_ganesh
 [linkedin]: https://linkedin.com/in/BestGanesh
