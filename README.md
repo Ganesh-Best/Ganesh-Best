@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning MERN Stack . 
 - 🌱 I’m computer science enthusiastic.  
 - 👯 I’m looking to collaborate for new projects.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play football and interested in sports🤣.
 <!--
 ### Spotify Playing 🎧
