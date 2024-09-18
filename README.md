@@ -1,7 +1,7 @@
-### Hi there, I'm Ganesh Singh Bisht -  G S Best [Portfolio] 👋
+### Hi there, I'm Ganesh Singh Bisht -👋
 
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://portfolio-ganesh-bisht.vercel.app)](https://portfolio-ganesh-bisht.vercel.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bestGanesh1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FbestGanesh1&screen_name=bestGanesh1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Bisht_Ganeshji?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBisht_Ganeshji&screen_name=Bisht_Ganeshji)
 
 ## I'm a Student, brother, son, and friend!
 
